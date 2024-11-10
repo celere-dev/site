@@ -42,7 +42,7 @@ body {
 	background-color: var(--background);
 	width: min(100% - 1rem, 74ch);
 	margin: 2rem auto 2rem 2rem;
-	font-family: var(--ff-mono);
+	font-family: var(--ff-base);
 	font-size: var(--fs-1);
 	line-height: 1.5;
 	color: var(--text);

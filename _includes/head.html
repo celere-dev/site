@@ -9,7 +9,13 @@
 	<link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/atom+xml">
 	<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
 
-	<link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" media="all" />
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ site.url }}">
+	<meta property="og:title" content="{{ page.title }} — {{ site.title }}">
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta property="og:image" content="{{ site.url }}/assets/celere-meta-image.jpg">
+
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" media="all">
 </head>
 
 <body>

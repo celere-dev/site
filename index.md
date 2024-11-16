@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quem Somos
+title: Quem somos
 ---
 O desafio de publicar na web já foi resolvido há décadas. Mesmo assim, ainda é comum topar com sites de notícias lentos, com UX defasada e ineficiências diversas.
 
@@ -24,8 +24,8 @@ A melhor parte? É muito provável que os nossos serviços tenham melhor custo-b
 
 ***
 
-Clarissa Mendes  
+Clarissa Mendes<br>
 [claromes@celere.dev](mailto:claromes@celere.dev)
 
-Rodrigo Ghedin  
+Rodrigo Ghedin<br>
 [rghedin@celere.dev](mailto:rghedin@celere.dev)

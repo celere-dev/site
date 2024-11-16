@@ -13,9 +13,9 @@ Unindo as nossas expertises no WordPress em contextos jornalísticos à excelên
 O menu de serviços da Célere inclui:
 
 * Migração e gerenciamento da hospedagem nos servidores da Automattic.
+* Otimização de leiaute, plugins, SEO técnico e banco de dados do WordPress pautadas por métricas aferíveis.
 * Gerenciamento de domínios.
 * Integração à Cloudflare para entrega rápida e segurança reforçada.
-* Otimização de leiaute, plugins, SEO técnico e banco de dados do WordPress pautadas por métricas aferíveis.
 * Suporte humano que entende de WordPress e de jornalismo.
 
 A melhor parte? É muito provável que os nossos serviços tenham melhor custo-benefício que sua solução atual para rodar o WordPress.

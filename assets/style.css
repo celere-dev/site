@@ -91,11 +91,10 @@ main {
 
 footer {
 	margin: var(--pos-salto-medio) auto var(--pos-margem-baixo);
-	padding: var(--pos-margem-baixo) 0 0;
 }
 footer ul {
 	display: flex;
-	font-size: var(--fs-0);
+	font-size: var(--fs-1);
 	column-gap: 1rem;
 	list-style: none;
 	padding: 0;

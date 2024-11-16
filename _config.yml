@@ -1,9 +1,8 @@
-title: Cérele — Hospedagem e otimização de sites de notícias
-description: Agência web especializada em sites de notícias
+title: Célere
+description: Otimização e Gerenciamento de Hospedagem de sites de notícias
 url: "https://celere.dev"
 
 markdown: kramdown
 
 exclude:
-- README.md
-- LICENSE.md
+- LICENSE.txt

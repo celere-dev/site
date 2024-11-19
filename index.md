@@ -20,7 +20,7 @@ O menu de serviços da Célere inclui:
 
 A melhor parte? É muito provável que os nossos serviços tenham melhor custo-benefício que sua solução atual para rodar o WordPress.
 
-[Vamos conversar?](mailto:contato@celere.dev)
+[Vamos conversar?](https://calendly.com/celere-dev/conversa)
 
 ***
 

@@ -40,8 +40,8 @@ img {
 
 body {
 	background-color: var(--background);
-	width: min(100% - 1rem, 74ch);
-	margin: 2rem auto 2rem 2rem;
+	width: min(100% - 2rem, 100%);
+	margin: 2rem auto 2rem 1rem;
 	font-family: var(--ff-base);
 	font-size: var(--fs-1);
 	line-height: 1.5;
@@ -64,6 +64,7 @@ a:hover {
 p,
 ul {
 	margin-bottom: var(--pos-margem-baixo);
+	text-wrap: pretty;
 }
 
 h1 {
@@ -86,7 +87,8 @@ header {
 }
 
 main {
-	margin: 0 auto;
+	margin: 0;
+	max-width: 68ch;
 }
 
 footer {
@@ -99,10 +101,4 @@ footer ul {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-}
-
-@media only screen and (max-width: 512px) {
-	body {
-		margin: 0 auto;
-	}
 }

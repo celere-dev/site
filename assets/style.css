@@ -34,7 +34,7 @@ img {
 body {
 	width: min(64ch - 1rem, 100%);
 	margin: 1.5rem auto;
-	padding: 0 .5rem;
+	padding: 0 1rem;
 	font-family: var(--ff-base);
 	font-size: var(--fs-1);
 	line-height: 1.5;
@@ -108,8 +108,8 @@ footer p:last-child,
 }
 
 #company {
-	align-self: flex-start;
 	font-size: 80%;
+	text-align: center;
 }
 
 footer {

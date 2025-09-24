@@ -40,7 +40,7 @@ img {
 
 body {
 	width: min(70ch - 1rem, 100%);
-	padding: 3rem;
+	padding: 3rem 1.5rem;
 	font-family: var(--ff-base);
 	font-size: var(--fs-1);
 	line-height: 1.5;
@@ -97,7 +97,7 @@ footer p:last-child,
 }
 
 #company {
-	font-size: 70%;
+	font-size: 85%;
 	text-align: left;
 }
 

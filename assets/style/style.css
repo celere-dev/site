@@ -1,22 +1,20 @@
 @font-face {
-	font-family: "Inter";
-	font-style: normal;
-	font-weight: 100 900;
-	font-display: swap;
-	src: url("./font/inter.woff2") format("woff2");
-	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-family: "JetBrains Mono";
+  src: url("../fonts/jetbrainsmono.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
 }
 
 :root {
 	--accent: #7e00b4;
 	--secondary: #9100ee;
 	--text: #2f0b48;
-	--background: #fcf9ff;
+	--background: #f1eef3;
 
-	--ff-base: "Inter", "SF Pro", "Helvetica Neue", Arial, ui-system, sans-serif;
+	--ff-base: "JetBrains Mono", monospace;
 
-	--fs-0: 1rem;
-	--fs-1: 1.2rem;
+	--fs-0: 0.8rem;
+	--fs-1: 1rem;
 	--fs-2: 1.6rem;
 	--fs-3: 2.5rem;
 }
@@ -41,9 +39,8 @@ img {
 }
 
 body {
-	width: min(64ch - 1rem, 100%);
-	margin: 1.5rem auto;
-	padding: 1.5rem;
+	width: min(70ch - 1rem, 100%);
+	padding: 3rem 1.5rem;
 	font-family: var(--ff-base);
 	font-size: var(--fs-1);
 	line-height: 1.5;
@@ -79,20 +76,19 @@ header {
 }
 
 main,
-#contact {
+#authors {
 	margin: 0;
 }
 main p:last-child,
 footer p:last-child,
-#contact p {
+#authors p {
 	margin: 0;
 }
 
-#content,
-#contact {
-	margin-bottom: 2.5rem;
+#authors, #page-404 {
+	margin: 2rem 0 2.5rem 0;
 	padding-bottom: 2.5rem;
-	border-bottom: 1px dashed #e0e0e0;
+	border-bottom: 1px dashed var(--accent);
 }
 
 #content {
@@ -100,30 +96,14 @@ footer p:last-child,
 	align-self: center;
 }
 
-#contact {
-	display: flex;
-	width: 100%;
-	justify-content: space-around;
-	align-self: center;
-}
-@media (max-width: 480px) {
-	#contact {
-		flex-direction: column;
-
-		p {
-			margin-bottom: 1.25rem;
-		}
-	}
-}
-
 #company {
-	font-size: 80%;
-	text-align: center;
+	font-size: 85%;
+	text-align: left;
 }
 
 footer {
 	display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: right;
 	margin: 0 auto;
 }

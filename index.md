@@ -5,7 +5,7 @@ title: Quem somos
 
 O desafio de publicar na web já foi resolvido há décadas. Mesmo assim, ainda é comum topar com sites de notícias lentos, com UX defasada e ineficiências diversas.
 
-O WordPress, sistema de gerenciamento de conteúdo mais popular do mundo, oferece uma base ótima, mas peca em vários aspectos — da ausência de recursos básicos, como um cache eficiente, à necessidade de plugins nem sempre óbvios ou fáceis de encontrar para funcionalidades complementares. É fácil de instalar; já configurá-lo bem... nem tanto.
+O WordPress, sistema de gerenciamento de conteúdo mais popular do mundo, oferece uma base ótima, mas peca em vários aspectos — da ausência de recursos básicos, como um cache eficiente, à necessidade de plugins nem sempre óbvios ou fáceis de encontrar para funcionalidades complementares. É fácil de instalar; já configurá-lo bem… nem tanto.
 
 A Célere surgiu para resolver esses gargalos.
 

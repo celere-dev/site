@@ -85,7 +85,7 @@ footer p:last-child,
 	margin: 0;
 }
 
-#authors, #page-404 {
+#authors, #page-404, .lista-clientes {
 	margin: 2rem 0 2.5rem 0;
 	padding-bottom: 2.5rem;
 	border-bottom: 1px dashed var(--accent);
@@ -99,6 +99,17 @@ footer p:last-child,
 #company {
 	font-size: 85%;
 	text-align: left;
+}
+
+.lista-clientes {
+	display: flex;
+	list-style: none;
+	column-gap: 2rem;
+	justify-content: space-between;
+	padding-inline: 0;
+}
+.lista-clientes li {
+	margin: 0;
 }
 
 footer {

@@ -19,14 +19,16 @@ O menu de serviços da Célere inclui:
 
 A melhor parte? É muito provável que os nossos serviços tenham melhor custo-benefício que sua solução atual para rodar o WordPress.
 
-Entre os clientes que já confiam no nosso suporte estão:
-
-- [Conquista Repórter](https://conquistareporter.com.br/), jornalismo local no sertão baiano.
-- [InfoAmazonia](https://infoamazonia.org/), geojornalismo na Amazônia.
-- [O Joio e O Trigo](https://ojoioeotrigo.com.br/), jornalismo investigativo.
-
 [Vamos conversar?](https://calendly.com/celere-dev/conversa)
 
 <p id="authors">
     Clarissa Rodrigues Mendes e Rodrigo Ghedin
 </p>
+
+Clientes que confiam na Célere:
+
+<ul class="lista-clientes">
+    <li><a href="https://infoamazonia.org"><img src="{{ site.url }}/assets/images/cliente-infoamazonia.png" alt="InfoAmazonia" height="28" /></a></li>
+    <li><a href="https://ojoioeotrigo.com.br"><img src="{{ site.url }}/assets/images/cliente-joio.png" alt="O Joio e o Trigo" height="28" /></a></li>
+    <li><a href="https://conquistareporter.com.br"><img src="{{ site.url }}/assets/images/cliente-conquista-reporter.png" alt="Conquista Repórter" height="28" /></a></li>
+</ul>

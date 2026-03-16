@@ -7,6 +7,7 @@
 
 :root {
 	--accent: #7e00b4;
+	--accent-op: #7e00b44d;
 	--secondary: #9100ee;
 	--text: #2f0b48;
 	--background: #f1eef3;
@@ -85,10 +86,10 @@ footer p:last-child,
 	margin: 0;
 }
 
-#authors, #page-404 {
+#authors, #page-404, .lista-clientes {
 	margin: 2rem 0 2.5rem 0;
 	padding-bottom: 2.5rem;
-	border-bottom: 1px dashed var(--accent);
+	border-bottom: 1px dashed var(--accent-op);
 }
 
 #content {
@@ -99,6 +100,24 @@ footer p:last-child,
 #company {
 	font-size: 85%;
 	text-align: left;
+}
+
+.lista-clientes {
+	display: flex;
+	list-style: none;
+	gap: 1rem 2rem;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-inline: 0;
+}
+.lista-clientes li {
+	margin: 0;
+}
+
+@media (max-width: 640px) {
+	.lista-clientes {
+		justify-content: center;
+	}
 }
 
 footer {

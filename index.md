@@ -30,5 +30,5 @@ Clientes que confiam na Célere:
 <ul class="lista-clientes">
     <li><a href="https://infoamazonia.org"><img src="{{ site.url }}/assets/images/cliente-infoamazonia.png" alt="InfoAmazonia" height="28" /></a></li>
     <li><a href="https://ojoioeotrigo.com.br"><img src="{{ site.url }}/assets/images/cliente-joio.png" alt="O Joio e o Trigo" height="28" /></a></li>
-    <li><a href="https://conquistareporter.com.br"><img src="{{ site.url }}/assets/images/cliente-conquista-reporter.png" alt="Conquista Repórter" height="28" /></a></li>
+    <li><a href="https://conquistareporter.com.br"><img src="{{ site.url }}/assets/images/cliente-conquista-reporter.png" alt="Conquista Repórter" height="32" /></a></li>
 </ul>

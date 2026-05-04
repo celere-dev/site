@@ -22,10 +22,10 @@ A melhor parte? É muito provável que os nossos serviços tenham melhor custo-b
 [Vamos conversar?](https://calendly.com/celere-dev/conversa)
 
 <p id="authors">
-    Clarissa Rodrigues Mendes e Rodrigo Ghedin
+  Clarissa Rodrigues Mendes e Rodrigo Ghedin
 </p>
 
-Clientes que confiam na Célere:
+Portfólio de clientes:
 
 <ul class="lista-clientes">
     <li><a href="https://infoamazonia.org"><img src="{{ site.url }}/assets/images/cliente-infoamazonia.png" alt="InfoAmazonia" height="28" /></a></li>
